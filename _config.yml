@@ -20,7 +20,7 @@ description: Site for book "Mastering ArcGIS Enterprise Administration"
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
   Resources:
     - Book @ Packt: "https://www.packtpub.com/application-development/mastering-arcgis-enterprise-administration"
     - Book @ Amazon: "https://www.amazon.com/gp/product/1788297490"
